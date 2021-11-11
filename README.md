@@ -1,5 +1,6 @@
 # RaspberryPi_OS
-Using https://wiki.osdev.org/Raspberry_Pi_Bare_Bones as a jumping-off point, as well as https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf as a guide. Also huge shoutout to Jsandler18 https://jsandler18.github.io/ for making a handy tutorial.
+Using https://wiki.osdev.org/Raspberry_Pi_Bare_Bones as a jumping-off point, as well as https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf as a guide. Also huge shoutout to Jsandler18 https://jsandler18.github.io/ for making a handy tutorial 
+*Note for anyone using this repo to do their own project: I will be using a Raspberry Pi 3, while this tutorial uses a 2. There are a few big differences.*
 
 ## Goal: Practice with Kernel writing and board bringup for Raspberry Pi 3 board. 
 
